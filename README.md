@@ -8,7 +8,7 @@
 <h3>📚 Atualmente: Estudante em T.I.</h3>
 <h4>⚙️ Engenharia de Controle e Automação & Análise e Desenvolvimento de Sistemas</h4+>
 <h3>Estudando as bases da programação e automatizando tudo que é possível</h3>
-<h3>💼 Ultimo Cargo: Desenvolvedor em Sistemas Embarcados (IOT) </h3>
+<h3>💼 Ultimo Cargo: Desenvolvedor Jr de Sistemas Embarcados </h3>
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathBM&layout=compact"/>
